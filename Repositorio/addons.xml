@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.kodiacademy" name="[COLOR lime]NOMBRE DE NUESTRO REPO[/COLOR] Repo" version="1.0" provider-name="CREADOR">
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/Leia18/fuentekodileia/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Leia18/fuentekodileia/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Leia18/fuentekodileia/master/Repositorio/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>DESCRIPCION DEL REPO</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
